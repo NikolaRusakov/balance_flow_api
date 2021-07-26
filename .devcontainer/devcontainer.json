@@ -1,6 +1,7 @@
 {
     "name": "Node.js",
     "dockerComposeFile": "docker-compose.yml",
+    // "shutdownAction": "stopContainer",
     "service": "app",
     "workspaceFolder": "/workspace",
     "settings": {
