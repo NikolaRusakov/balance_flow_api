@@ -3,7 +3,7 @@ version: "3.7"
 x-environment: &default-environment
   POSTGRES_USER: vscode
   POSTGRES_PASSWORD: password
-  POSTGRES_DB: tutorial
+  POSTGRES_DB: budgeting
   PGADMIN_DEFAULT_EMAIL: nikola.rusakov@rusakov.cz
   PGADMIN_DEFAULT_PASSWORD: password
 # PGDATA: /var/lib/postgresql/data
